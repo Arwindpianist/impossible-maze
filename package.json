@@ -1,0 +1,22 @@
+{
+  "name": "impossible-maze",
+  "version": "1.0.0",
+  "description": "An Impossible Maze created using PixiJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arwindpianist/impossible-maze.git"
+  },
+  "keywords": [
+    "impossible"
+  ],
+  "author": "Arwin Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arwindpianist/impossible-maze/issues"
+  },
+  "homepage": "https://github.com/Arwindpianist/impossible-maze#readme"
+}
