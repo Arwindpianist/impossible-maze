@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Arwindpianist/impossible-maze/issues"
   },
-  "homepage": "https://github.com/Arwindpianist/impossible-maze#readme"
+  "homepage": "https://github.com/Arwindpianist/impossible-maze#readme",
+  "dependencies": {
+    "pixi.js": "^7.2.4"
+  }
 }
